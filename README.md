@@ -40,7 +40,7 @@ prisma generate
 ## Start postgres as docker
 
 ```sh
-uvicorn main:app --reload
+docker-compose up
 ```
 
 
