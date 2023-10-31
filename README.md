@@ -1,5 +1,5 @@
 
-This prisma python project is loosly based on documentation and
+This prisma python project is loosly based on documentation from Python FastAPI, Prisma for python, pytest, etc and
 
 # Prisma FastApi
 
