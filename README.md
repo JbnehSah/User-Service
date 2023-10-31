@@ -52,7 +52,7 @@ uvicorn main:app --reload
 ## Start swagger
 
 ```sh
-http:/localhost/8000/docs
+http://localhost/8000/docs
 ```
 
 ## Notes
