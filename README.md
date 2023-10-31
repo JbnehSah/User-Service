@@ -49,6 +49,11 @@ docker-compose up
 ```sh
 uvicorn main:app --reload
 ```
+## Start swagger
+
+```sh
+http:/localhost/8000/docs
+```
 
 ## Notes
 
